@@ -143,3 +143,14 @@ li img {
     margin-left: 17.5%;
 }
 
+/* Channels area width */
+#channels {
+position: absolute;
+height: 100%;
+width: 40%;
+}
+
+/* Chat area width */
+#chat {
+    width: 60%;
+    }
